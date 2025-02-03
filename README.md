@@ -30,7 +30,7 @@
 
 ## 📂 Проекты
 🔹 BrawlStars3d для яндекс игр - (https://yandex.ru/games/app/356362?debug-mode=16&draft=true&lang=ru)
-🔹 [VR Experience](https://github.com/fakeprofile/project2) – VR-приложение для обучения  
+🔹 проект удаленный с яндекс игр - (https://play.unity.com/en/games/d20c2c22-6356-481d-a0a6-0b1e5e25f40b/dunerider)
 
 ## 📞 Контакты
-📧 vladislav7leonov@gmail.com  
+📧 vladislav7leonov@gmail.com
