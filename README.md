@@ -4,7 +4,6 @@
 🚀 **Unity Developer | Game Developer | Software Engineer**  
 📍 Россия, Южно-Сахалинск
 📧 vladislav7leonov@gmail.com  
-🔗 [GitHub](https://github.com/fakeprofile) | [LinkedIn](https://linkedin.com/in/fakeprofile)  
 
 ## 🛠️ Основные навыки
 - 🎮 **Unity (C#)** – разработка 2D/3D-игр, оптимизация, работа с UI
